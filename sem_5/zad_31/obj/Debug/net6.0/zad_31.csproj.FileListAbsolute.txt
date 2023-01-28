@@ -1,0 +1,15 @@
+D:\Project\sem_5\zad_31\obj\Debug\net6.0\zad_31.csproj.AssemblyReference.cache
+D:\Project\sem_5\zad_31\obj\Debug\net6.0\zad_31.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\sem_5\zad_31\obj\Debug\net6.0\zad_31.AssemblyInfoInputs.cache
+D:\Project\sem_5\zad_31\obj\Debug\net6.0\zad_31.AssemblyInfo.cs
+D:\Project\sem_5\zad_31\obj\Debug\net6.0\zad_31.csproj.CoreCompileInputs.cache
+D:\Project\sem_5\zad_31\bin\Debug\net6.0\zad_31.exe
+D:\Project\sem_5\zad_31\bin\Debug\net6.0\zad_31.deps.json
+D:\Project\sem_5\zad_31\bin\Debug\net6.0\zad_31.runtimeconfig.json
+D:\Project\sem_5\zad_31\bin\Debug\net6.0\zad_31.dll
+D:\Project\sem_5\zad_31\bin\Debug\net6.0\zad_31.pdb
+D:\Project\sem_5\zad_31\obj\Debug\net6.0\zad_31.dll
+D:\Project\sem_5\zad_31\obj\Debug\net6.0\refint\zad_31.dll
+D:\Project\sem_5\zad_31\obj\Debug\net6.0\zad_31.pdb
+D:\Project\sem_5\zad_31\obj\Debug\net6.0\zad_31.genruntimeconfig.cache
+D:\Project\sem_5\zad_31\obj\Debug\net6.0\ref\zad_31.dll
